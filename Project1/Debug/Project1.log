@@ -1,0 +1,12 @@
+﻿  Source.c
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\source.c(9): warning C4047: '=': 'char **' differs in levels of indirection from 'char *'
+  Functions.c
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(17): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(19): warning C4047: 'return': 'char *' differs in levels of indirection from 'char **'
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(33): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(29): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  Generating Code...
+c:\users\moxeed\documents\visual studio 2015\projects\project1\project1\functions.c(35): warning C4716: 'GetInput': must return a value
+  Project1.vcxproj -> c:\users\moxeed\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\moxeed\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
